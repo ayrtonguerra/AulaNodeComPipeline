@@ -4,7 +4,7 @@
   "description": "Exercicio da aula 04 sobre DevOps - Pipelines",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ayrtonguerra/AulaNodeComPipeline/issues"
   },
-  "homepage": "https://github.com/ayrtonguerra/AulaNodeComPipeline#readme"
+  "homepage": "https://github.com/ayrtonguerra/AulaNodeComPipeline#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
 }
