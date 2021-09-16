@@ -1,0 +1,23 @@
+{
+  "name": "aula_04_devops_parte_2",
+  "version": "1.0.0",
+  "description": "Exercicio da aula 04 sobre DevOps - Pipelines",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayrtonguerra/AulaNodeComPipeline.git"
+  },
+  "keywords": [
+    "pipeline",
+    "js"
+  ],
+  "author": "Ayrton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayrtonguerra/AulaNodeComPipeline/issues"
+  },
+  "homepage": "https://github.com/ayrtonguerra/AulaNodeComPipeline#readme"
+}
