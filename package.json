@@ -4,7 +4,7 @@
   "description": "Exercicio da aula 04 sobre DevOps - Pipelines",
   "main": "app.js",
   "scripts": {
-    "test": "echo 'test complete'"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
